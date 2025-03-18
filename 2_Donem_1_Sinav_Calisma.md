@@ -1,3 +1,4 @@
+## Web 2. Dönem 1. Sınav Teorik Çalışma Soruları ##
 1.  **Model Binding işlemi nedir?**
     Model Binding, formdaki input elemanlarının name değerleri ile aynı olan bir modelin özellik isimleri ile eşleştirilmesi veya bağlanması işlemidir.
 
